@@ -118,4 +118,4 @@ Note that when your browser updates to this version, you may be asked to accept 
 
 ### Q: Can I restrict access to Bitwarden to certain devices?
 
-**A:** Using self-hosting, you can use custom firewall and NGINX configurations as well as VPN/VLAN access control to determine the device types and/or network layer access for your Bitwarden instance. You may also use other tools such as device-level certificates to control specific device access to the Bitwarden instance as well.
+**A:** Using self-hosting, you can use custom firewall and NGINX configurations as well as VPN/VLAN access control to determine the device types and/or network layer access for your Bitwarden instance. You may also use other tools such as device-level certificates to control specific device access to the Bitwarden instance as well
